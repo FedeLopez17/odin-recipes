@@ -1,0 +1,19 @@
+body#guiso {
+    background-color: rgb(20, 97, 191); color: white; text-align: center; font-family:Verdana, Tahoma, sans-serif;
+}
+
+body#banana-bread {
+    background-color: rgb(192, 53, 176); color: white; text-align: center; font-family:Verdana, Tahoma, sans-serif;
+}
+
+body#pancakes {
+    background-color: rgb(196, 159, 67); color: white; text-align: center; font-family:Verdana, Tahoma, sans-serif;
+}
+
+img {
+    width: 500px; height: auto;
+}
+
+h1, h3 {
+    text-decoration: underline;
+}
